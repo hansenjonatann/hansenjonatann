@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding and Programming
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me . You can follow my github , Contact me in Instagram and You can collaborate with me
+- 📫 How to reach me . You can follow my github , Contact me in Instagram , Connect me in Linkedin .
 
 <!---
 hansenjonatann/hansenjonatann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
