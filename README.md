@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hansenjonatann" alt="hansenjonatann" /></a> </p>
 
-- 🌱 I’m currently learning **T3 Stack**
+- 🌱 I’m currently learning **Go**
 
 - 📫 How to reach me **hansenjonatann@gmail.com**
 
